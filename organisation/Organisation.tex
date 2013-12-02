@@ -1,0 +1,171 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[x11names,table]{xcolor}
+\usepackage[french]{babel}
+\usepackage{wasysym}
+\usepackage{natbib}
+% Si l'on veut produire une version PDF avec distiller ou pdflatex:
+\usepackage[pageanchor=false,colorlinks,plainpages=false]{hyperref}
+\usepackage{url}
+
+\ifx\pdftexversion\undefined
+\usepackage[dvips]{graphicx}
+\else
+\usepackage[pdftex]{graphicx}
+\fi
+
+\usepackage{time}
+%\usepackage[scaled]{helvet}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+
+\usepackage{listings}
+\usepackage{todonotes}
+\usepackage{tikz}
+\usetikzlibrary{decorations.text}
+\usetikzlibrary{decorations.markings}
+\usetikzlibrary{positioning}
+\usetikzlibrary{shadows}
+\usetikzlibrary{backgrounds}
+
+\usepackage[]{subfig}
+
+\usepackage{geometry}
+\geometry{%
+a4paper,
+body={160mm,255mm},
+left=25mm,top=20mm,
+headheight=6mm,headsep=3.5mm,
+marginparsep=2.5mm,
+marginparwidth=27mm}
+
+\usepackage{changepage}
+\usepackage{placeins}
+
+\usepackage{rotating}
+
+\newenvironment{agrandirmarges}[2]{%
+\begin{list}{}{%
+\setlength{\topsep}{0pt}%
+\setlength{\listparindent}{\parindent}%
+\setlength{\itemindent}{\parindent}%
+\setlength{\parsep}{0pt plus 1pt}%
+\checkoddpage%
+\ifoddpage
+\setlength{\leftmargin}{-#1}\setlength{\rightmargin}{-#2}
+\else
+\setlength{\leftmargin}{-#2}\setlength{\rightmargin}{-#1}
+\fi}\item }%
+{\end{list}}
+
+\date{}
+\begin{document}
+\lstset{
+         breaklines=true,                                     % line wrapping on
+         %frame=ltrb,
+         framesep=5pt,
+         %samepage=true,
+         tabsize=4,
+         basicstyle=\normalsize,
+         frameround=ftft,
+         keywordstyle=\ttfamily\color{SeaGreen4},
+         identifierstyle=\ttfamily\bfseries\color{RoyalBlue4},
+         commentstyle=\color{RoyalBlue3},
+         stringstyle=\ttfamily,
+         showstringspaces=false
+}
+\pgfdeclarelayer{background}
+\pgfdeclarelayer{foreground}
+\pgfsetlayers{background,main,foreground}
+
+\newlength{\niveauZero}
+\newlength{\niveauUn}
+\newlength{\niveauDeux}
+\newlength{\niveauTrois}
+\newlength{\niveauQuatre}
+\newlength{\niveauCinq}
+
+\newlength{\colonneZero}
+\newlength{\colonneUn}
+\newlength{\colonneDeux}
+\newlength{\colonneTrois}
+\newlength{\colonneQuatre}
+\newlength{\colonneCinq}
+
+{\centering
+    \mbox{
+      \makebox[15cm][l]{
+      \begin{minipage}{15cm}
+        \begin{center}
+          {\Huge Nuit de l'Info à Aix-en-Provence}\\[0.4cm]
+        \end{center}
+        {\centering \includegraphics[width=\textwidth]{ban_ndi.png}}
+        \vspace{0.2cm}
+      \end{minipage}
+      }
+    }
+}
+
+La Nuit de l'Info 2013 aura lieu les 5 et 6 décembre 2013. A l'image des éditions précédentes, elle réunira des étudiants de toute la France, pour une grande aventure collective.
+
+Pour la troisième fois, le département Informatique de l'\textsc{Iut} d'Aix-Marseille s'associe à cette manifestation. Pendant toute cette nuit plusieurs activités vous seront proposées pour que vous puissiez relever les défis tout en ayant les moyens de vous détendre par moment.
+
+\section{Déroulement de la nuit}
+\begin{itemize}
+   	\item 16h15 : Rendez-vous dans l’Amphi Est pour l’accueil
+    \item 16h34 : Visio-conférence avec l'annonce du sujet et début officiel de la Nuit
+   	\item 17h00 : Répartition des équipes dans les salles
+   	\item 18h00 : Pot de bienvenue
+   	\item 18h30 : Un challenge agile surprise (animé par Isabelle Blasquez et Xavier Nopre)
+   	\item 19h00 : Présentation sur le crowdfunding (animé par Adrien Aumont le cofondateur de kisskissbankbank)
+   	\item 20h00 : Présentation sur mettez un moteur de recherche sous votre capot (animé par Audrey Neveu)
+   	\item 21h00 : Démonstration du robot humanoïde Nao (animé par Blandine Bourgois)
+   	\item 21h30 : L'heure des pizzas
+   	\item 22h00 : Présentation découvrez comment faire du code qui marche grâce au TDD (animé par Xavier Nopre)
+   	\item 22h45 : Coding dojo pour passer au TDD par la pratique (animé par Xavier Nopre)
+   	\item 02h00 : En-cas de mi-parcours
+   	\item 08h04 : Fin de la Nuit, remise du travail
+   	\item 08h05 : Petit-déjeuner après l'effort
+   	\item 8h30  : dodo ;)
+   	\item 12h00 : Proclamation des résultats en Amphi
+\end{itemize}
+Tout au long de la nuit, l’association étudiante Inform'Aix proposera des divertissements (musique, jeux, film, Binary heros,…) dans une salle spécialement prévue pour la détente des participants.
+
+\section{Lieux importants}
+Le déroulement de la nuit est prévu autour de plusieurs lieux importants. Les noms des différentes salles seront indiqués sur les portes. 
+\begin{description}
+	\item[Salle Coding :] L'une des salles de cours du premier étage du département Informatique servira pour les différents ateliers.
+	\item[Salle d'équipe :] Chaque équipe se verra attribuer une salle ou elle pourra travailler tranquillement et sans être trop dérangé par les autres équipes.
+	\item[Salle machine :] Plusieurs salles de TP seront laissées en libre accès pour que les étudiants du département n'ayant pas mené leur machine puissent travailler.
+	\item[Salle détente :] La seconde salle de cours du deuxième étage sera aménagée en un espace de détente ou chacun pourra venir se détendre et aussi recharger ses accus avec la nourriture et les boissons mises à disposition. Cette salle servira aussi tout au long de la nuit pour les animations proposées par l'association Inform'Aix (Musique, Film, Jeux,...).
+\end{description}
+
+\section{Règles et consignes de sécurité à respecter}
+La nuit de l'info se veut festive mais elle doit \textbf{impérativement} se dérouler dans le respect et la sécurité des personnes et des locaux mis à notre disposition. Pour éviter au maximum les problèmes, les quelques règles suivantes devront être respectées par tous les participants. Il est demandé à chacun d'entre vous de faire son possible pour que tout se déroule pour le mieux.  
+\begin{itemize}
+	\item \textbf{L'alcool est totalement interdit} dans l'enceinte de l'université. Toute personne alcoolisée ou en possession d'alcool sera exclue sans discuter. Si vous souhaitez quitter temporairement la nuit vous devrez passer un éthylotest avant de pouvoir accéder à nouveau au bâtiment.
+	 
+	\item Il est \textbf{strictement interdit de manger ou de boire} dans les salles d'équipe et la salle machine. Il y a une salle de détente ou chacun pourra trouver de quoi boire, grignoter, se défouler et papoter pendant toute la nuit.
+	
+	\item Vous ne devez fumer que dans les espaces prévus à cet usage. Veillez à correctement éteindre vos mégots avant de les jeter.
+	
+	\item Tout étudiant non inscrit dans une équipe devra impérativement quitter le département avant 20h00.
+	
+	\item À la fin de la nuit ne prenez pas le volant si vous êtes trop fatigué. Parlez-en à un des professeurs présents pour que l'on puisse trouver une solution pour vous faire raccompagner.  
+	
+	\item Soyez respectueux des lieux où les gens travaillent sur les défis. Si vous voulez rigoler et vous détendre utilisez la salle détente.
+	
+	\item Les salles à l'usage des équipes devront être rendues propres : Pas de papier ou détritus qui traîne et le tableau devra être effacé. 
+	
+	\item Il est préférable d'utiliser le Wifi ("eduroam" pour ceux qui le peuvent et "(Aix*Marseille université" pour les autres participants) pour se connecter à Internet. 
+
+	\item La salle de TP B sera ouverte. Il est bien entendu que les utilisateurs n'y débrancheront en aucun cas ni les prises réseau ni les prises électriques. Un accès réseau filaire pour les ordinateurs personnels sera possible en salle d'équipe. Les utilisateurs devront respecter scrupuleusement la Charte Informatique de l'Université.
+
+	\item Faites un max de photos, Twittez et facebookez autant que possible ;) Il faut que toute la France sache qu'on est là (Comme l'an passé j'offre une tournée générale aux participants si \#N2iAix est en top tweet). Les photos les plus jolies seront utilisées pour communiquer dans la presse locale sur la nuit de l'info à Aix-en-Provence.
+
+	\item L'association Inform'aix, L.A.B, Duchess France, le PLUG, le MarsJug et les leaders d'équipes ont beaucoup participé à la bonne organisation et au bon déroulement de la nuit alors n'hésitez pas à les en remercier régulièrement.
+\end{itemize}
+
+\section{Remerciement des sponsors}
+
+\end{document}
