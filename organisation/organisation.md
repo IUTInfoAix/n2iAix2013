@@ -1,4 +1,4 @@
-<span> </span>
+![bannière](ban_ndi.png)
 
 La Nuit de l’Info 2013 aura lieu les 5 et 6 décembre 2013. A l’image des éditions précédentes, elle réunira des étudiants de toute la France, pour une grande aventure collective.
 
@@ -8,35 +8,20 @@ Déroulement de la nuit
 ======================
 
 -   16h15 : Rendez-vous dans l’Amphi Est pour l’accueil
-
 -   16h34 : Visio-conférence avec l’annonce du sujet et début officiel de la Nuit
-
 -   17h00 : Répartition des équipes dans les salles
-
 -   18h00 : Pot de bienvenue
-
 -   18h30 : Un challenge agile surprise (animé par Isabelle Blasquez et Xavier Nopre)
-
 -   19h00 : Présentation sur le crowdfunding (animé par Adrien Aumont le cofondateur de kisskissbankbank)
-
 -   20h00 : Présentation sur mettez un moteur de recherche sous votre capot (animé par Audrey Neveu)
-
 -   21h00 : Démonstration du robot humanoïde Nao (animé par Blandine Bourgois)
-
 -   21h30 : L’heure des pizzas
-
 -   22h00 : Présentation découvrez comment faire du code qui marche grâce au TDD (animé par Xavier Nopre)
-
 -   22h45 : Coding dojo pour passer au TDD par la pratique (animé par Xavier Nopre)
-
 -   02h00 : En-cas de mi-parcours
-
 -   08h04 : Fin de la Nuit, remise du travail
-
 -   08h05 : Petit-déjeuner après l’effort
-
 -   8h30 : dodo ;)
-
 -   12h00 : Proclamation des résultats en Amphi
 
 Tout au long de la nuit, l’association étudiante Inform’Aix proposera des divertissements (musique, jeux, film, Binary heros,…) dans une salle spécialement prévue pour la détente des participants.
@@ -46,16 +31,16 @@ Lieux importants
 
 Le déroulement de la nuit est prévu autour de plusieurs lieux importants. Les noms des différentes salles seront indiqués sur les portes.
 
-Salle Coding :  
+**Salle Coding :**  
 L’une des salles de cours du premier étage du département Informatique servira pour les différents ateliers.
 
-Salle d’équipe :  
+**Salle d’équipe :**  
 Chaque équipe se verra attribuer une salle ou elle pourra travailler tranquillement et sans être trop dérangé par les autres équipes.
 
-Salle machine :  
+**Salle machine :**  
 Plusieurs salles de TP seront laissées en libre accès pour que les étudiants du département n’ayant pas mené leur machine puissent travailler.
 
-Salle détente :  
+**Salle détente :**  
 La seconde salle de cours du deuxième étage sera aménagée en un espace de détente ou chacun pourra venir se détendre et aussi recharger ses accus avec la nourriture et les boissons mises à disposition. Cette salle servira aussi tout au long de la nuit pour les animations proposées par l’association Inform’Aix (Musique, Film, Jeux,...).
 
 Règles et consignes de sécurité à respecter

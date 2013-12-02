@@ -26,17 +26,17 @@
   1. void* (BTS, 5 membres)
   
 ##Affectation des équipes dans les salles
-- RDC : 
+- **RDC** : 
   - Salle TP C (Aix'pendables, Agence touriste) : 14
   - Salle TP D (Les Info-graham, Like A Boss) : 12
-- 1er Étage
+- **1er Étage** :
   - TD1 (SMB) : 22
   - TD2 (E-Nova Robotics, 404Noob) : 14
   - TD3 (C'Trivial, El Psy Congroo C++, ) : 14
   - Salle TP B (Team Jamirocket, Makers) : 14
   - Cour 1 : Espace Détente
   - Cour 2 : Espace Conférence
-- 2eme Étage
+- **2eme Étage** :
   - TD1 (Les URLeurs, Elimis) : 13
   - TD2 (P&eacute;teurs de boulestres, hot code) : 14
   - TD3 (Les Fils de Wyverne) : 13
