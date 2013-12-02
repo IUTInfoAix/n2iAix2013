@@ -37,8 +37,8 @@ L’une des salles de cours du premier étage du département Informatique servi
 **Salle d’équipe :**  
 Chaque équipe se verra attribuer une salle ou elle pourra travailler tranquillement et sans être trop dérangé par les autres équipes.
 
-**Salle machine :**  
-Plusieurs salles de TP seront laissées en libre accès pour que les étudiants du département n’ayant pas mené leur machine puissent travailler.
+**Salle machines :**  
+Plusieurs salles de TP seront mises à disposition des étudiants du département. 
 
 **Salle détente :**  
 La seconde salle de cours du deuxième étage sera aménagée en un espace de détente ou chacun pourra venir se détendre et aussi recharger ses accus avec la nourriture et les boissons mises à disposition. Cette salle servira aussi tout au long de la nuit pour les animations proposées par l’association Inform’Aix (Musique, Film, Jeux,...).
@@ -48,27 +48,31 @@ Règles et consignes de sécurité à respecter
 
 La nuit de l’info se veut festive mais elle doit **impérativement** se dérouler dans le respect et la sécurité des personnes et des locaux mis à notre disposition. Pour éviter au maximum les problèmes, les quelques règles suivantes devront être respectées par tous les participants. Il est demandé à chacun d’entre vous de faire son possible pour que tout se déroule pour le mieux.
 
--   **L’alcool est totalement interdit** dans l’enceinte de l’université. Toute personne alcoolisée ou en possession d’alcool sera exclue sans discuter. Si vous souhaitez quitter temporairement la nuit vous devrez passer un éthylotest avant de pouvoir accéder à nouveau au bâtiment.
+- **L’alcool est totalement interdit** dans l’enceinte de l’université. Toute personne alcoolisée ou en possession d’alcool sera exclue sans discuter. Si vous souhaitez quitter temporairement la nuit vous devrez passer un éthylotest avant de pouvoir accéder à nouveau au bâtiment.
 
--   Il est **strictement interdit de manger ou de boire** dans les salles d’équipe et la salle machine. Il y a une salle de détente ou chacun pourra trouver de quoi boire, grignoter, se défouler et papoter pendant toute la nuit.
+- Il est **strictement interdit de manger ou de boire** dans les salles machines. Il y a une salle de détente ou chacun pourra trouver de quoi boire, grignoter, se défouler et papoter pendant toute la nuit.
 
--   Vous ne devez fumer que dans les espaces prévus à cet usage. Veillez à correctement éteindre vos mégots avant de les jeter.
+- Vous ne devez fumer que dans les espaces prévus à cet usage. Veillez à correctement éteindre vos mégots avant de les jeter dans une poubelle.
 
--   Tout étudiant non inscrit dans une équipe devra impérativement quitter le département avant 20h00.
+- À la fin de la nuit ne prenez pas le volant si vous êtes trop fatigué. Parlez-en à un des encadrant présents pour que l’on puisse trouver une solution pour vous faire raccompagner. Une salle sera laissée libre le vendredi matin pour que ceux qui souhaitent se reposer avant de prendre la route.
 
--   À la fin de la nuit ne prenez pas le volant si vous êtes trop fatigué. Parlez-en à un des professeurs présents pour que l’on puisse trouver une solution pour vous faire raccompagner.
+- Soyez respectueux des lieux où les gens travaillent sur les défis. Si vous voulez rigoler et vous détendre utilisez la salle détente.
 
--   Soyez respectueux des lieux où les gens travaillent sur les défis. Si vous voulez rigoler et vous détendre utilisez la salle détente.
+- Les salles à l’usage des équipes devront être rendues propres : Pas de papier ou détritus qui traîne et le tableau devra être effacé. En cas de non respect, ce sont les *leaders* d'équipe qui seront tenus pour responsable.
 
--   Les salles à l’usage des équipes devront être rendues propres : Pas de papier ou détritus qui traîne et le tableau devra être effacé.
+- Il est préférable d’utiliser le Wifi ("eduroam" pour ceux qui le peuvent et "(Aix\*Marseille université" pour les autres participants) pour se connecter à Internet.
 
--   Il est préférable d’utiliser le Wifi ("eduroam" pour ceux qui le peuvent et "(Aix\*Marseille université" pour les autres participants) pour se connecter à Internet.
+- Plusieurs salles de TP seront ouvertes. Il est bien entendu que les utilisateurs n’y débrancheront en aucun cas ni les prises réseau ni les prises électriques. Les utilisateurs devront respecter scrupuleusement la Charte Informatique de l’Université.
 
--   La salle de TP B sera ouverte. Il est bien entendu que les utilisateurs n’y débrancheront en aucun cas ni les prises réseau ni les prises électriques. Un accès réseau filaire pour les ordinateurs personnels sera possible en salle d’équipe. Les utilisateurs devront respecter scrupuleusement la Charte Informatique de l’Université.
+- Faites un max de photos, Twittez et facebookez autant que possible ;) Il faut que toute la France sache qu’on est là (Comme l’an passé j’offre une tournée générale aux participants si **#N2iAix** est en top tweet). Pour partager vos photos avec les autres participants, nous avons mis en place un groupe *Flickr* ([http://www.flickr.com/groups/n2iaix/](http://www.flickr.com/groups/n2iaix/)). Les photos les plus jolies seront utilisées pour communiquer dans la presse locale sur la nuit de l’info à Aix-en-Provence.
 
--   Faites un max de photos, Twittez et facebookez autant que possible ;) Il faut que toute la France sache qu’on est là (Comme l’an passé j’offre une tournée générale aux participants si \#N2iAix est en top tweet). Les photos les plus jolies seront utilisées pour communiquer dans la presse locale sur la nuit de l’info à Aix-en-Provence.
-
--   L’association Inform’aix, L.A.B, Duchess France, le PLUG, le MarsJug et les leaders d’équipes ont beaucoup participé à la bonne organisation et au bon déroulement de la nuit alors n’hésitez pas à les en remercier régulièrement.
+- L’association Inform’aix, L.A.B, Duchess France, les leaders d’équipes ont beaucoup participé à la bonne organisation et au bon déroulement de la nuit alors n’hésitez pas à les en remercier régulièrement.
 
 Remerciement des sponsors
 =========================
+Nous tenons particulièrement à remercier nos sponsors grâce à qui nous pouvons offrir à tous les participants un événement de qualité.  
+
+![Evolix](evolix.png)
+![Rotary](rotary.png)
+
+
