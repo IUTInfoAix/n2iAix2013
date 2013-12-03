@@ -14,7 +14,7 @@ Pendant toute cette nuit plusieurs activités vous seront proposées :
 -   18h00 : Pot de bienvenue
 -   18h30 : Un challenge agile surprise (animé par Isabelle Blasquez et Xavier Nopre)
 -   19h00 : Démonstration du robot humanoïde Nao (animé par Blandine Bourgois)
--   19h30 : Présentation "mettez un moteur de recherche sous votre capot" (animé par Audrey Neveu)
+-   19h30 : Présentation "Moteurs de recherche, un oeil sous le capot" (animé par Audrey Neveu)
 -   20h30 : Présentation sur le crowdfunding (animé par Adrien Aumont le cofondateur de kisskissbankbank)
 -   21h30 : L’heure des pizzas
 -   22h00 : Présentation "découvrez comment faire du code qui marche grâce au TDD" (animé par Xavier Nopre)
