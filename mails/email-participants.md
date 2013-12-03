@@ -14,17 +14,18 @@ Pendant toute cette nuit plusieurs activités vous seront proposées :
 -   18h00 : Pot de bienvenue
 -   18h30 : Un challenge agile surprise (animé par Isabelle Blasquez et Xavier Nopre)
 -   19h00 : Démonstration du robot humanoïde Nao (animé par Blandine Bourgois)
--   19h30 : Présentation sur le crowdfunding (animé par Adrien Aumont le cofondateur de kisskissbankbank)
--   20h30 : Présentation "mettez un moteur de recherche sous votre capot" (animé par Audrey Neveu)
--   21h30 : L’heure des pizzas
+-   19h30 : Présentation "Moteurs de recherche, un oeil sous le capot" (animé par Audrey Neveu)
+-   20h30 : L’heure des pizzas
+-   21h00 : Présentation sur le crowdfunding (animé par Adrien Aumont le cofondateur de kisskissbankbank)
 -   22h00 : Présentation "découvrez comment faire du code qui marche grâce au TDD" (animé par Xavier Nopre)
 -   22h45 : Coding dojo pour passer au TDD par la pratique (animé par Xavier Nopre)
 -   02h00 : En-cas de mi-parcours
 -   03h00 : Atelier #geekBidouille proposé par le Fab Lab d'Aix-en-Provence (Laboratoire d'Aix-périmentation et de Bidouille)
 -   08h04 : Fin de la Nuit, remise du travail
 -   08h05 : Petit-déjeuner après l’effort
--   8h30 : dodo ;)
+-   08h30 : dodo ;)
 -   13h00 : Proclamation des résultats en Amphi
+
 
 Essayez autant que possible de vous organiser avec les membres de votre équipe pour participer à tour de rôle aux différentes animations. Bien que le programme soit intéressant pour les participants, il ne faudrait pas commencer votre projet à 23h.
 
@@ -59,7 +60,7 @@ Bien que vous ne disposiez pas du sujet avant le début de la nuit, il y a plusi
 
 Que faire le jour J ?
 =====================
-Venir et être à fond pour une nuit hors du commun. Ne pas rester seul dans son coin et profiter à de tous les conseils que les personnes extérieurs à votre projet pourront vous donner. Les professionnels présents sont là pour vous aider donc n'hésitez surtout pas.
+Venir et être à fond pour une nuit hors du commun. Ne pas rester seul dans son coin et profiter à de tous les conseils que les personnes extérieures à votre projet pourront vous donner. Les professionnels présents sont là pour vous aider donc n'hésitez surtout pas.
 
 Pour que tout le monde sache que nous avons essayé de changer le monde de l'informatique en une nuit, n'hésitez pas à faire du bruit sur les réseaux sociaux et à publier sur le groupe *Flickr* ([http://www.flickr.com/groups/n2iaix/](http://www.flickr.com/groups/n2iaix/)).
 
