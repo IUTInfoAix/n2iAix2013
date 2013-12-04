@@ -17,3 +17,13 @@
 - [ ] Ramener Adrien à Marseille
 - [ ] Ramener Audrey à la gare TGV
 - [ ] Ramener Xavier à la gare Sncf 
+
+#Personnes présentes
+- Sébastien NEDJAR
+- François MIETTE
+- Cyril PAIN-BARRE
+- Thomas BIANCHINI
+- Victor GROUSSET
+- Cédric CANESTRARI
+- 
+
