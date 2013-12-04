@@ -1,4 +1,5 @@
 #Todo liste
+- [ ] Piquer le micro du département
 - [ ] Imprimer et coller la signalétique
 - [ ] Installer le réseau
 - [ ] Tester le son dans l'amphi Est
@@ -8,7 +9,7 @@
 - [ ] Préparer la salle détente
 - [ ] Servir l'appéritif
 - [ ] Timetracker les conférences
-- [ ] Faire rentrer et sortir la voiture Redbull
+- [ ] Faire rentrer(<20h00) et sortir la voiture Redbull
 - [ ] Réceptionner le repas
 - [ ] Distribuer le repas 
 - [ ] Aller chercher Isabelle
@@ -17,3 +18,6 @@
 - [ ] Ramener Adrien à Marseille
 - [ ] Ramener Audrey à la gare TGV
 - [ ] Ramener Xavier à la gare Sncf 
+- [ ] Distribution du matériel: Faire signer les responsables
+- [ ] Récupération du matériel
+- [ ] Installer le petit dej 07h00
