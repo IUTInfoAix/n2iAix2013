@@ -1,23 +1,26 @@
 #Todo liste
-- [ ] Imprimer et coller la signalétique
-- [ ] Installer le réseau
-- [ ] Tester le son dans l'amphi Est
-- [ ] Déplacer les tables dans les salles audio
-- [ ] Distribuer les comptes wifi et faire signer la feuille d'émargement
-- [ ] Faire signer les leaders d'équipe une attestation de responsabilité
-- [ ] Préparer la salle détente
-- [ ] Servir l'appéritif
+- [ ] Piquer le micro du département
+- [ ] Imprimer et coller la signalétique(14h00)
+- [ ] Installer le réseau (12h00)
+- [ ] Tester le son dans l'amphi Est (16h00)
+- [ ] Déplacer les tables dans les salles audio (15h00)
+- [ ] Distribuer les comptes wifi et faire signer la feuille d'émargement 
+- [ ] Faire signer les leaders d'équipe une attestation de responsabilité (17h00)
+- [ ] Préparer la salle détente (16h00)
+- [ ] Servir l'appéritif (18h00)
 - [ ] Timetracker les conférences
-- [ ] Faire rentrer et sortir la voiture Redbull
-- [ ] Réceptionner le repas
-- [ ] Distribuer le repas 
-- [ ] Aller chercher Isabelle
+- [ ] Faire rentrer et sortir la voiture Redbull (Après 20h00)
+- [ ] Réceptionner le repas (21h00)
+- [ ] Distribuer le repas (20h30)
+- [ ] Aller chercher Isabelle (14h00)
 - [ ] Aller chercher Audrey à la gare TGV (20h44)
-- [ ] Aller chercher Adrien à Marseille
-- [ ] Ramener Adrien à Marseille
+- [ ] Aller chercher Adrien à Marseille (20h30)
+- [ ] Ramener Adrien à Marseille (00h00)
 - [ ] Ramener Audrey à la gare TGV
-- [ ] Ramener Xavier à la gare Sncf 
-
+- [ ] Ramener Xavier à la gare Sncf (08h30)
+- [ ] Distribution du matériel: Faire signer les responsables
+- [ ] Récupération du matériel
+- [ ] Installer le petit dej (07h00)
 #Personnes présentes
 - Sébastien NEDJAR
 - François MIETTE
@@ -25,5 +28,7 @@
 - Thomas BIANCHINI
 - Victor GROUSSET
 - Cédric CANESTRARI
-- 
-
+- Jonathan BAUDIN
+- Alain Drillon
+- Eloi Perdrero
+- Isabelle Blasquez
